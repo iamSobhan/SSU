@@ -1,1 +1,1 @@
-Here we practice about C++ programming and OOPs conepts.
+Here, we practice and learn C++ programming and OOP concepts using both Python and C++ programming languages.
