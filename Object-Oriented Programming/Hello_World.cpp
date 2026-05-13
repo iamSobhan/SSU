@@ -1,3 +1,6 @@
+// Write a C++ program to print a string.
+
+
 #include <iostream>
 using namespace std;
 
