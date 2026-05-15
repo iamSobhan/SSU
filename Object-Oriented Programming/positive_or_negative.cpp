@@ -1,4 +1,4 @@
-// Check Positive or Negative
+// Write a C++ program to check whether a number is Positive or Negative.
 
 
 #include <iostream>
