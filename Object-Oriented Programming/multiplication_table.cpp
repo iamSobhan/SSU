@@ -1,4 +1,4 @@
-// Multiplication Table
+// Write a C++ program to print the multiplication table of a number.
 
 
 #include <iostream>
