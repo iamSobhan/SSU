@@ -1,4 +1,4 @@
-// Checking a number Prime or not
+// Write a C++ program to check whether a number is Prime or Not.
 
 
 #include <iostream>
