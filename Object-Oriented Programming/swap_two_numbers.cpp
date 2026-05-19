@@ -1,4 +1,4 @@
-// Swap Two Numbers
+// Write a C++ program to perform swapping of two numbers.
 
 
 #include <iostream>
