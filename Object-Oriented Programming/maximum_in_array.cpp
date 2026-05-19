@@ -1,4 +1,4 @@
-// Find Maximum in an Array
+// Write a C++ program to find the maximum element in an array.
 
 
 #include <iostream>
