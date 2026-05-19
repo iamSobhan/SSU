@@ -1,4 +1,4 @@
-// Sum of Natural Numbers
+// Write a C++ program to find the sum of natural numbers.
 
 
 #include <iostream>
