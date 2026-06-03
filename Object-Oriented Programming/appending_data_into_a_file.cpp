@@ -8,7 +8,7 @@ using namespace std;
 int main() {
     ofstream file("ssu.txt", ios::app);
 
-    file << " Appended Text";
+    file << " Lionel Messi";
 
     file.close();
 
