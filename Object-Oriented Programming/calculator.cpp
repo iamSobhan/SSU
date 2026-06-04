@@ -1,4 +1,4 @@
-// Simple Calculator
+// Write a C++ program to create a simple calculator using arithmetic operators.
 
 
 #include <iostream>
