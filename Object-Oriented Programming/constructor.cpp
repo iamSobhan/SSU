@@ -1,4 +1,4 @@
-// Constructor Demonstration
+// Write a C++ program to demonstrate the use of a Constructor.
 
 
 #include <iostream>
