@@ -1,4 +1,4 @@
-// Check Even or Odd
+// Write a C++ program to check whether a number is Even or Odd.
 
 
 #include <iostream>
