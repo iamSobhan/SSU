@@ -1,4 +1,4 @@
-// Find area of a Circle
+// Write a C++ program to calculate the area of a circle.
 
 
 #include <iostream>
