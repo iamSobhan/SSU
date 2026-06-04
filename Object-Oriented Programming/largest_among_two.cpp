@@ -1,4 +1,4 @@
-// Find Largest Number
+// Write a C++ program to find the largest among two numbers.
 
 
 #include <iostream>
