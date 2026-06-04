@@ -1,4 +1,4 @@
-// Fibonacci Series
+// Write a C++ program to generate the Fibonacci series.
 
 
 #include <iostream>
