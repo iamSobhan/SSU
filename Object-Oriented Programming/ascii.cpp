@@ -1,4 +1,4 @@
-// Find ASCII Value
+// Write a C++ program to find the ASCII value of a character.
 
 
 #include <iostream>
